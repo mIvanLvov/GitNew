@@ -14,6 +14,8 @@ class ViewController: UIViewController {
     
     var newString = "String"
     
+    var newString2 = "String"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
