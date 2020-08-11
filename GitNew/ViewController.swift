@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
+    var newVar = "222"
     //
     override func viewDidLoad() {
         super.viewDidLoad()
